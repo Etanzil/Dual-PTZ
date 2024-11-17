@@ -35,14 +35,5 @@ This repository contains the firmware for a camera control system, enabling prec
 - **Ramp Function**: Gradually increases motor speed to prevent stalling.
 
 ## Getting Started
+Build and flash the firmware using your preferred IDE Keil uvision 5 and CubeMX IDE
 
-### Hardware Requirements
-- Compatible microcontroller (e.g., STM32 series).
-- Day and thermal cameras with UART communication support.
-- Motor drivers and limit switches for motion control.
-
-### Installation
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/camera-control-system.git
-   Build and flash the firmware using your preferred IDE Keil uvision 5
