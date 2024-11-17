@@ -1,0 +1,1 @@
+tanz_v4_with_zoom\startup_stm32l011xx.o: startup_stm32l011xx.s
